@@ -25,7 +25,7 @@ function draw() {
       car.shapeColor=color(0,255,0);
     }
   }
-  wall.debug=true;
+  //wall.debug=true;
   //car.debug=true;
   drawSprites();
 }
